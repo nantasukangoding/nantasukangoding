@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="278" viewBox="0 0 680 278">
+  <rect width="680" height="278" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect width="680" height="38" fill="#161b22"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="19" r="6" fill="#27ca40"/>
+  <text x="340" y="24" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" fill="#484f58">github.com/nantasukangoding</text>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" xml:space="preserve">
+    <text x="20" y="66" fill="#27ca40">❯</text>
+    <text x="38" y="66" fill="#c9d1d9">cat profile.json</text>
+    <text x="20" y="94" fill="#e3b341">{</text>
+    <text x="36" y="116"><tspan fill="#79c0ff">"name"</tspan><tspan fill="#c9d1d9">      : </tspan><tspan fill="#a5d6ff">"Syahidan Ananta"</tspan><tspan fill="#c9d1d9">          ,</tspan></text>
+    <text x="36" y="138"><tspan fill="#79c0ff">"role"</tspan><tspan fill="#c9d1d9">      : </tspan><tspan fill="#a5d6ff">"Software Engineer"</tspan><tspan fill="#c9d1d9">     ,</tspan></text>
+    <text x="36" y="160"><tspan fill="#79c0ff">"location"</tspan><tspan fill="#c9d1d9">    : </tspan><tspan fill="#a5d6ff">"Indonesia"</tspan><tspan fill="#c9d1d9">                ,</tspan></text>
+    <text x="36" y="182"><tspan fill="#79c0ff">"stack"</tspan><tspan fill="#c9d1d9">      : </tspan><tspan fill="#c9d1d9">[</tspan><tspan fill="#ffa657">"typescript"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"dart"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"python"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"c++"</tspan><tspan fill="#c9d1d9">]</tspan></text>
+    <text x="36" y="204"><tspan fill="#79c0ff">"interests"</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#c9d1d9">[</tspan><tspan fill="#ffa657">"web"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"mobile"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"security"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"data"</tspan><tspan fill="#c9d1d9">]</tspan></text>
+    <text x="20" y="226" fill="#e3b341">}</text>
+    <text x="20" y="254" fill="#27ca40">❯</text>
+    <rect x="38" y="241" width="9" height="15" fill="#27ca40">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
